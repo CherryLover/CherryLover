@@ -1,11 +1,5 @@
-# CherryLover
-
-平时比较喜欢折腾智能硬件相关的软件和连接体验，Android 是我最熟的一块，`BLE`、`UWB`、`Matter` 这些也一直在接触。更关心的是手机、设备和云端怎么更顺畅地协同。平时用 `Jetpack Compose` 写 UI，用 `Kotlin` 协程处理异步，也做 `MQTT` 设备通信，踩过不少蓝牙协议栈的坑。
-
-但我不太想把自己限定在 Android 这一条线上。对 AI 辅助开发一直很上头，围绕 `Claude Code` 做过一些工具和机器人，也在持续折腾 `MCP`、`Agent SDK` 这些东西。能让 AI 帮我干的事，通常都会先想办法把它接进流程里，也想继续往更完整的工具、服务和整套流程去做。
-
-喜欢把重复的事情变成工具。推送、发布、邮件、任务管理这些，能自动化的基本都会想办法自动化。写过一些跑在 `Cloudflare Workers` 上的小服务，`KV` 和 `R2` 用得也比较顺手。
-
-技术栈不算单一。`Kotlin` 依然是我最熟的语言，`TypeScript` 和 `Python` 也经常写，`Docker` 部署、`Node.js` 后端也都能处理。对 `KMP` 也挺感兴趣，最近在持续看它在实际场景里的落地方式，尤其是共享业务逻辑、设备交互能力和跨平台边界怎么划分更合理。这件事如果能做顺，对我来说不只是多一种技术选项，也是把自己从单一客户端角色里再往外走一步。
-
-这个账号下的大部分内容，都是自己在用的工具、实验性项目，以及一些折腾过程中慢慢沉淀出来的模块。偶尔也会把觉得有意思的东西整理出来放上来。
+- 我是 @CherryLover
+- 主要关注 Android、BLE、UWB、Matter、MQTT 和智能设备连接
+- 也在折腾 AI Coding、Claude Code、MCP、Agent SDK、KMP 和自动化工作流
+- 常用 Kotlin、TypeScript、Python、Node.js 和 Cloudflare Workers 做工具
+- 希望自己不只停留在 Android，也继续往更完整的工具、服务和流程上走
