@@ -1,5 +1,5 @@
-- 我是 @CherryLover
-- 主要关注 Android、BLE、UWB、Matter、MQTT 和智能设备连接
-- 也在折腾 AI Coding、Claude Code、MCP、Agent SDK、KMP 和自动化工作流
-- 常用 Kotlin、TypeScript、Python、Node.js 和 Cloudflare Workers 做工具
-- 希望自己不只停留在 Android，也继续往更完整的工具、服务和流程上走
+- 👋 我是 @CherryLover
+- 📱 主要关注 Android、BLE、UWB、Matter、MQTT 和智能设备连接
+- 🤖 也在折腾 AI Coding、Claude Code、MCP、Agent SDK、KMP 和自动化工作流
+- 🛠️ 常用 Kotlin、TypeScript、Python、Node.js 和 Cloudflare Workers 做工具
+- 🚀 希望自己不只停留在 Android，也继续往更完整的工具、服务和流程上走
