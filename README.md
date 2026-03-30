@@ -3,3 +3,9 @@
 - 🤖 也在折腾 AI Coding、Claude Code、MCP、Agent SDK、KMP 和自动化工作流
 - 🛠️ 常用 Kotlin、TypeScript、Python、Node.js 和 Cloudflare Workers 做工具
 - 🚀 希望自己不只停留在 Android，也继续往更完整的工具、服务和流程上走
+
+- 👋 I’m @CherryLover
+- 📱 Focused on Android, BLE, UWB, Matter, MQTT, and connected devices
+- 🤖 Also exploring AI Coding, Claude Code, MCP, Agent SDK, KMP, and automation workflows
+- 🛠️ I build tools with Kotlin, TypeScript, Python, Node.js, and Cloudflare Workers
+- 🚀 I want to grow beyond Android into broader tools, services, and workflows
